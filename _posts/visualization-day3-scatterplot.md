@@ -2,7 +2,7 @@
 ===========
 ---
 title: "day 3"
-date: 2020-01-20
+date: 2020-01-22
 categories: blog
 ---
 
