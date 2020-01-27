@@ -14,6 +14,11 @@ categories: blog
 ## colab 첨부
 https://github.com/silverstar0727/1day-1commit-challenge/blob/master/pandas_visualization.ipynb
 
+어떻게 첨부해야할지 모르겠담.... ㅠㅠㅠㅠ
+검색해도 넘나 어려운것 후우
+
+다음에 마크다운언어를 날잡고 다시 배워야할 듯
+
 ## 추후에 할 것...
 이젠 pandas를 이용하여 데이터 프레임을 다루는 것을 공부하게 될 것 같다.
 무엇보다도 인공지능의 핵심은 데이터 전처리가 아닐까 싶다... 
