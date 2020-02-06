@@ -4,6 +4,9 @@
 
 
 name: 도정민
+
 school: Yonsei.Univ(mirae)
+
 major: Physics
+
 contact: silverstar456@yonsei.ac.kr
