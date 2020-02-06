@@ -19,7 +19,7 @@
 > y = b1*x + b0
 2. 모수가 3개인 다중회귀 (Multivariate Regression)
 > y = b1*x1 + b2*x2 + b0
- 2.1. 모수가 3개인 다항회귀 (Polynomial Regression)
+2.1. 모수가 3개인 다항회귀 (Polynomial Regression)
  > y = b1*x1^2 + b2*x1 + b0
  
  
