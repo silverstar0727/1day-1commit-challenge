@@ -23,6 +23,7 @@ contact: silverstar456@yonsei.ac.kr
 
 ipynb의 모든 파일이 보이지 않는다... 
 > Sorry something went wrong.Reload?
+
 위 문장이 계속되며 colab으로 진행한 파일이 맛이 간 것 같다.
 
 몇 시간 찾아본 결과 많은 사람들이 공유하고 있는 문제임을 확인했고, 나름의 해결책을 알아냈다.
