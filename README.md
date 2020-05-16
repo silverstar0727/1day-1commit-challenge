@@ -19,7 +19,7 @@ contact: silverstar456@yonsei.ac.kr
 
 
 
-2020-05-17
+### 2020-05-17
 
 ipynb의 모든 파일이 보이지 않는다... 
 > Sorry something went wrong.Reload?
