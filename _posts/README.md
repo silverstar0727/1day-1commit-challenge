@@ -7,3 +7,4 @@
 * pytorch
 * statistics
 * visualization
+* 한국인공지능
